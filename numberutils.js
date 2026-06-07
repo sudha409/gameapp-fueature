@@ -3,3 +3,6 @@ console.log("welcome");
 const add = (a,b) => a+b;
 
 console.log(add(5,6));
+
+
+console.log("welcome");
